@@ -58,7 +58,11 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/background.jpg
+    - assets/spongebob_character.png
+    - assets/spongebob_friend.png
+    - assets/spongebob_sad.png
+    - assets/spongebob_happy.jpg
+    - assets/spongebob_welcome.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
